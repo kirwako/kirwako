@@ -1,6 +1,25 @@
 # 42_network_badge
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=ibaali)](https://github.com/kirwa-KO)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.first_name = "IMRAN"
+        self.last_name = "BAALI"
+        self.nickname = "kirwa-KO"
+        self.role = "FullStack Developer"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = FullStackDeveloper()
+me.say_hi()
+```
 
 <a href="https://github.com/kirwa-KO?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirwa-KO&theme=dark"/>
