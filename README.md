@@ -1,4 +1,4 @@
-# 42_network_badge
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 ```python
 #!/usr/bin/python
