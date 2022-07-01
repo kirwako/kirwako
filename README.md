@@ -1,5 +1,3 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="16px"> 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
