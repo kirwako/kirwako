@@ -11,7 +11,8 @@ class FullStackDeveloper:
         self.first_name = "IMRAN"
         self.last_name = "BAALI"
         self.nickname = "kirwako"
-        self.role = "FullStack Developer and designer"
+        self.role = "FullStack Developer and Graphic designer"
+        self.website = "www.kirwako.com"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -21,9 +22,9 @@ me = FullStackDeveloper()
 me.say_hi()
 ```
 
-<a href="https://github.com/kirwa-KO?tab=repositories">
+<!-- <a href="https://github.com/kirwa-KO?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirwa-KO&theme=dark"/>
-</a>
-<a href="https://github.com/kirwa-KO?tab=repositories">
+</a> -->
+<!-- <a href="https://github.com/kirwa-KO?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kirwa-KO&line_height=40&show_icons=true&theme=dark">
-</a>
+</a> -->
